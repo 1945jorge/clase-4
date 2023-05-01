@@ -1,0 +1,50 @@
+body{
+    background-color: gold;
+    /* 
+    aplicando color amarillo al fondo de la pagina
+    */    
+    }
+header{
+    background-color: rgb(80, 255, 109);
+    }
+
+main{
+    background-color: lawngreen;
+    /*
+    aplicando color al cuerpo donde ira la tabla
+    */     
+    }
+    .titulo3 { 
+        color: darkblue;
+        text-align: center;
+        text-decoration: underline;
+    }
+    .alto { 
+        height: 300px;
+    }
+    .table {
+        margin: auto;
+    }
+    .posicion {
+        position: relative;
+        bottom: 150px;
+    }
+    .colorcolumna {
+        background-color: rgb(30, 143, 255);
+       
+    }
+    .tamañoletra {
+        font-family: Tahoma;
+        font-size: 30px;
+    }
+    .tamañodias {
+        font-family: Verdana;
+        font-size: 18px;
+    }
+    
+footer {
+    position: relative;
+    bottom: 250%;
+    background-color: black;
+    color: aliceblue;
+    }    
